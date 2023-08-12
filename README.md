@@ -1,6 +1,10 @@
 # learn-go
 
+### Introduction to Go
+- [Learn Go in 12 Minutes](https://www.youtube.com/watch?v=C8LgvuEBraI)
+
 ### Concurrency
+- [Introduction to concurrency in Go](https://www.youtube.com/watch?v=LvgVSSpwND8)
 - [Buffered vs Unbuffered Channel](https://clavinjune.dev/en/blogs/buffered-vs-unbuffered-channel-in-golang/)
 
 ### Error Handling

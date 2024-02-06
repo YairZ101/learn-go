@@ -13,3 +13,6 @@
 ### Error Handling
 - [Custom Error Wrapper](https://dev.to/tigorlazuardi/go-creating-custom-error-wrapper-and-do-proper-error-equality-check-11k7)
 - [Sentinel Errors](https://blog.anynines.com/posts/error-handling-in-go-part-2/)
+
+### APIs
+- [Functional options for friendly APIs](https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis)
